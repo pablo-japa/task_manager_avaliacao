@@ -21,3 +21,10 @@ após o loading completo, aperte W para iniciar o WEB
 
 informações adicionais no arquivo de documentação anexado também no repositorio
 
+considerações:
+Meu primeiro projeto em php e tive pouco mais de 4 horas para desenvolver tudo, documentação, aprender um pouco do php-backEnding,
+devido o projeto do tcc do Curso e do trabalho como caixa de farmacia, no entanto, dei meu melhor.
+
+obrigado pela oportunidade.
+
+~pablo
